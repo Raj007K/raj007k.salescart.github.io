@@ -1,0 +1,9 @@
+<h2  class="hostingPlanTextAppearance">Available VPS Hosting Plans</h2>
+<div *ngFor="let plan of mockPlans" class="vps-plan">
+  <div class="name">{{ plan.name }}</div>
+  <div class="price">₹{{plan.price}}</div>
+  <button class="purchase-button"  (click)="buyPlan()" >Buy Now</button>
+</div>
+
+
+

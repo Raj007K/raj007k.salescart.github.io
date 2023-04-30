@@ -1,0 +1,32 @@
+
+
+    menu{
+        
+        flex:auto ;
+    }
+
+header{
+    background: #00fff7 ;
+}
+
+.spacer {
+    flex: 1;
+  }
+
+    footer{
+        background: #11ae36;
+      
+    }
+
+    .fontappearance{
+        color: crimson;
+        border: 2px ridge rgb(128, 0, 73);
+        padding:10px;
+        font-weight: bolder;
+        }
+
+.middlelevelTextAppearnce{
+    color:blue;
+    font-weight: bolder;
+}
+

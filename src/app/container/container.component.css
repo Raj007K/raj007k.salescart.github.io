@@ -1,0 +1,17 @@
+.appearance{
+    font-weight: bold;
+}
+
+.movingdown
+{
+    padding-top: 40px;
+}
+
+.movingright{
+    padding-right: 60px;
+}
+
+.middlelevelTextAppearnce{
+    color:blue;
+    font-weight: bolder;
+}

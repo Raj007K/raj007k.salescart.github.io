@@ -1,0 +1,39 @@
+
+.BuyPlanHyperlinktextAppearance{
+    font-size: large;
+    font-weight: bolder;
+}
+
+.ContentTextAppearance{
+    /* font-size: medium; */
+        font-weight: bold;
+  }
+
+  .columnSplitIntoTwoSections{
+    float: right;
+    width: 300px;
+    padding: 10px;
+    height: 500px;
+}
+
+
+.SupportLinkAppearance{
+    font-weight: bold;
+    color: maroon;
+}
+.columnSplitForDogitalPic{
+    float: left;
+    width: 300px;
+    padding: 10px;
+    height: 800px;
+}
+.positionOfDigitalWorldImage
+{
+   width:100px;
+   height:500px;
+}
+
+.movingTowardsRight
+{
+    float: left;
+}

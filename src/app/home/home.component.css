@@ -1,0 +1,10 @@
+div{
+    color: green ;
+    border: 3px ridge rgb(128, 0, 73);
+    padding:10px;
+    
+    }
+
+    .spacer {
+        flex: 1;
+      }

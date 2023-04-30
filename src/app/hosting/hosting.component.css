@@ -1,0 +1,38 @@
+:host {
+    display: block;
+  }
+  
+  .vps-plan {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    color: blue;
+  }
+  
+  .vps-plan .name {
+    font-weight: bold;
+  }
+  
+  .vps-plan .price {
+    font-size: 20px;
+  }
+  
+  .purchase-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .purchase-button:hover {
+    background-color: #0062cc;
+  }
+  
+  .hostingPlanTextAppearance{
+    background-color: lawngreen;
+  }
