@@ -27,7 +27,7 @@ export class HostingComponent implements OnInit {
     /* init logic */
   }
   mockPlans: any[] = [
-    { id: 1, name: 'Basic(1GB RAM,25GB SSD NVMe,1TB Bandwidth,1Dedicated IP)',   price:  1500 },
+    { id: 1, name: 'Basic(1GB RAM,25GB SSD NVMe,1TB Bandwidth,1Dedicated IP)',   price: 3500 },
     { id: 2, name: 'Premium(2GB RAM,25GB SSD NVMe,1TB Bandwidth,1Dedicated IP)', price: 1000 },
     { id: 3, name: 'Standard(2GB RAM,50GB SSD NVMe,1TB Bandwidth,1Dedicated IP)', price: 2000 },
     { id: 4, name: 'Enhanced(4GB RAM,60GB SSD NVMe,1TB Bandwidth,1Dedicated IP)', price: 3000 },
